@@ -1,0 +1,128 @@
+{"cities":[
+    {   "name":"Arad" ,
+        "dist_to_bucharest":366,
+        "adjacent_cities" : [{
+            "name": "Zerind", "dist": 75},{
+            "name": "Sibiu", "dist": 140},{
+            "name": "Timisoara", "dist": 118}]
+    },
+    {   "name":"Bucharest" ,
+        "dist_to_bucharest":0,
+        "adjacent_cities" : [{
+            "name": "Urziceni", "dist": 85},{
+            "name": "Pitesti", "dist": 101},{
+            "name": "Giurgiu", "dist": 90},{
+            "name": "Fagaras", "dist": 211}]
+    },
+    {   "name":"Craiova" ,
+        "dist_to_bucharest":160,
+        "adjacent_cities" : [{
+            "name": "Dobreta", "dist": 120},{
+            "name": "Rimnicu Vilcea", "dist": 145},{
+            "name": "Pitesti", "dist": 138}]
+    },
+    {   "name":"Dobreta" ,
+        "dist_to_bucharest":242,
+        "adjacent_cities" : [{
+            "name": "Craiova", "dist": 120},{
+            "name": "Mehadia", "dist": 75}]
+    },
+    {   "name":"Eforie" ,
+        "dist_to_bucharest": 161,
+        "adjacent_cities" : [{
+            "name": "Hirsova", "dist": 86}]
+    },
+    {   "name":"Fagarras" ,
+        "dist_to_bucharest":178,
+        "adjacent_cities" : [{
+            "name": "Bucharest", "dist": 211},{
+            "name": "Sibiu", "dist": 99}]
+    },
+    {   "name":"Giurgiu" ,
+        "dist_to_bucharest":77,
+        "adjacent_cities" : [{
+            "name": "Bucharest", "dist": 90}]
+    },
+    {   "name":"Hirsova" ,
+        "dist_to_bucharest":151,
+        "adjacent_cities" : [{
+            "name": "Eforie", "dist": 86},{
+            "name": "Urziceni", "dist": 98}]
+    },
+    {   "name":"Iasi" ,
+        "dist_to_bucharest":226,
+        "adjacent_cities" : [{
+            "name": "Neamt", "dist": 87},{
+            "name": "Vaslui", "dist": 92}]
+    },
+    {   "name":"Lugoj" ,
+        "dist_to_bucharest":244,
+        "adjacent_cities" : [{
+            "name": "Timisoara", "dist": 111},{
+            "name": "Mehadia", "dist": 70}]
+    },
+    {   "name":"Mehadia" ,
+        "dist_to_bucharest":241,
+        "adjacent_cities" : [{
+            "name": "Lugoj", "dist": 70},{
+            "name": "Dobreta", "dist": 75}]
+    },
+    {   "name":"Neamt" ,
+        "dist_to_bucharest":234,
+        "adjacent_cities" : [{
+            "name": "Iasi", "dist": 87}]
+    },
+    {   "name":"Oradea" ,
+        "dist_to_bucharest":380,
+        "adjacent_cities" : [{
+            "name": "Sibiu", "dist": 151},{
+            "name": "Zerind", "dist": 71}]
+    },
+    {   "name":"Pitesti" ,
+        "dist_to_bucharest":98,
+        "adjacent_cities" : [{
+            "name": "Bucharest", "dist": 101},{
+            "name": "Rimnicu Vilcea", "dist": 97},{
+            "name": "Craiova", "dist": 138}]
+    },
+    {   "name":"Rimnicu Vilcea" ,
+        "dist_to_bucharest":193,
+        "adjacent_cities" : [{
+            "name": "Pitesti", "dist": 97},{
+            "name": "Craiova", "dist": 145},{
+            "name": "Sibiu", "dist": 80}]
+    },
+    {   "name":"Sibiu" ,
+        "dist_to_bucharest":253,
+        "adjacent_cities" : [{
+            "name": "Rimnicu Vilcea", "dist": 80},{
+            "name": "Fagarras", "dist": 99},{
+            "name": "Arad", "dist": 140},{
+            "name": "Oradea", "dist": 151}]
+    },
+    {   "name":"Timisoara" ,
+        "dist_to_bucharest":329,
+        "adjacent_cities" : [{
+            "name": "Arad", "dist": 118},{
+            "name": "Lugoj", "dist": 111}]
+    },
+    {   "name":"Urziceni" ,
+        "dist_to_bucharest":80,
+        "adjacent_cities" : [{
+            "name": "Bucharest", "dist": 85},{
+            "name": "Hirsova", "dist": 98},{
+            "name": "Vaslui", "dist": 142}]
+    },
+    {   "name":"Vaslui" ,
+        "dist_to_bucharest":199,
+        "adjacent_cities" : [{
+            "name": "Urziceni", "dist": 142},{
+            "name": "Iasi", "dist": 92}]
+    },
+    {   "name":"Zerind" ,
+        "dist_to_bucharest":374,
+        "adjacent_cities" : [{
+            "name": "Oradea", "dist": 71},{
+            "name": "Arad", "dist": 75}]
+    }
+]}
